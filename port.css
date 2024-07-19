@@ -211,7 +211,7 @@ input, textarea{
     border-radius: 8px;
     border: none;
     background-color: #fff;
-    color: black;
+    color: #000;
 }
 input:focus,
 textarea:focus{
